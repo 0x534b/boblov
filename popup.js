@@ -8,7 +8,7 @@ let grabImg = document.getElementById("grabImg");
 
 grabImg.addEventListener("click",() => {    
     // Get active browser tab
-    chrome.tabs.query({active: true}, function(tabs) {
+    chrome.tabs.query({active: true, currentWindow: true}, function(tabs) {
         let tab = tabs[0];
         if (tab) {
             execScript(tab);
@@ -46,20 +46,16 @@ function onResult(frames) {
                             .reduce((r1,r2)=>r1.concat(r2));
 
     // Open a page with a list of images and send urls to it
-    console.log(imageUrls[0]);
+    console.log(imageUrls);
 }
 
 
 function grabImages() {
-    console.log(document);
+    // console.log(document);
     const images = document.querySelectorAll("img[alt*=Page]");
 
-    // ooga booga code
-    // chrome.runtime.sendMessage({msg: 'image', index: 0}, function({data, index}){
-    //     images[index].src = "https://raw.senmanga.com/img/logo.svg";
-    // });
-
-    images[0].src = "https://raw.senmanga.com/img/logo.svg";
+    // can change the image w smth like this
+    // images[0].src = "https://raw.senmanga.com/img/logo.svg";
 
     return Array.from(images).map(image=>image.src);
 }
