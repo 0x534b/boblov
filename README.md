@@ -16,3 +16,4 @@ funny mistranslations
 ![squeeze](/images/squeeze.png)
 ![sagan](/images/sagan.png)
 ![gun](/images/gun.png)
+![baa](/images/baa.png)
