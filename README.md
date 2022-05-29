@@ -31,3 +31,4 @@ a collection of funny mistranslations <br>
 ![why do you draw](/images/whydoyoudraw.png)
 ![that](/images/that.png)
 ![you cant be my child](/images/youcantbemychild.png)
+![THAT IS HIS NAME](/images/thatishisname.png)
