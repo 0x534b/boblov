@@ -8,6 +8,11 @@ the true legend of old
 clone repo <br> requirements <br> do the thing 
 
 
-### featuring ratrat:
+### hall of fame:
+funny mistranslations
 ![why isnt ratrat showing :(](/images/ratrat.png)
 ![leg](/images/leg.png)
+![what](/images/what.png)
+![squeeze](/images/squeeze.png)
+![sagan](/images/sagan.png)
+![gun](/images/gun.png)
