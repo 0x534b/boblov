@@ -1,8 +1,12 @@
 ![](/images/title.png)
-# boblov
-TOHacks entry
+# 🅱️ boblov
+TOHacks entry along with [our backend api](https://github.com/0x534b/manga-translation-api)
 
 the true legend of old
 
-# special features
-![](/images/ratrat.png)
+# ⬇️ how to install
+clone repo <br> requirements <br> do the thing 
+
+
+### featuring ratrat:
+![why isnt ratrat showing :(](/images/ratrat.png)
