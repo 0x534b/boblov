@@ -8,7 +8,7 @@ TOHacks entry along with [our backend api](https://github.com/0x534b/manga-trans
 clone repo <br> requirements <br> do the thing 
 
 
-### hall of fame:
+# hall of fame:
 funny mistranslations <br>
 ![why isnt ratrat showing :(](/images/ratrat.png)
 ![leg](/images/leg.png)
