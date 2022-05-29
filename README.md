@@ -10,3 +10,4 @@ clone repo <br> requirements <br> do the thing
 
 ### featuring ratrat:
 ![why isnt ratrat showing :(](/images/ratrat.png)
+![leg](/images/leg.png)
