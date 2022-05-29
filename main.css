@@ -5,7 +5,7 @@ body {
 
 button{
   width:100%;
-  color:orange;
+  color:black;
   border-width:0px;
   border-radius:20px;
   padding:5px;
@@ -21,8 +21,7 @@ button:active{
   background-color:green;
 }
 
-/*
-.boblov_button:hover {
-  background-color: #ffbf00;
+p {
+  font-size: 11px;
+  font-style: italic;
 }
-*/
