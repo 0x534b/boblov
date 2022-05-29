@@ -9,7 +9,7 @@ clone repo <br> requirements <br> do the thing
 
 
 ### hall of fame:
-funny mistranslations
+funny mistranslations <br>
 ![why isnt ratrat showing :(](/images/ratrat.png)
 ![leg](/images/leg.png)
 ![what](/images/what.png)
