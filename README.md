@@ -22,7 +22,7 @@ ok boblov is too smart wtfff (crazy adlib moment)<br>
 ![kobenidancing](/images/kobenidancing.png)
 ![makima this is the end](/images/makimathisistheend.png)
 
-# 🔥 hall of flame:
+# 🔥 hall of flame: 
 a collection of funny mistranslations <br>
 ![why isnt ratrat showing :(](/images/ratrat.png)
 ![leg](/images/leg.png)
